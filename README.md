@@ -1,0 +1,2 @@
+# CustomVillagerTrades
+一个Minecraft自定义村民交易GUI，可以自定义村民的交易并生成出其指令。
